@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebHook.Test", "WebHookster.Test\WebHook.Test.csproj", "{63E95D76-721D-43AB-8877-0DEC02FFE647}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebHookster", "WebHookster\WebHookster.csproj", "{A3115F08-D36F-41D2-A21F-34589CA9AC9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63E95D76-721D-43AB-8877-0DEC02FFE647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E95D76-721D-43AB-8877-0DEC02FFE647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E95D76-721D-43AB-8877-0DEC02FFE647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E95D76-721D-43AB-8877-0DEC02FFE647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3115F08-D36F-41D2-A21F-34589CA9AC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3115F08-D36F-41D2-A21F-34589CA9AC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3115F08-D36F-41D2-A21F-34589CA9AC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3115F08-D36F-41D2-A21F-34589CA9AC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
